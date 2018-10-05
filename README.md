@@ -1,0 +1,1 @@
+Small Projects Regarding Django Model Inheritence.
